@@ -18,10 +18,8 @@ import java.util.Optional;
 
 @Service
 public class CouponServiceImpl implements CouponService{
+//primo
 
-    private String mm;
-
-//hffhf
     @Autowired
     CouponDao couponDao;
 
